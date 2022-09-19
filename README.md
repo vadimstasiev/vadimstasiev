@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [update.this.link.com](update.this.link.com)
+- 👨‍💻 All of my projects are available at [https://firegram-b9fd2.web.app/](https://firegram-b9fd2.web.app/)
 
 - 📫 How to reach me **vadim.stasiev@hotmail.com**
 
