@@ -7,7 +7,7 @@
 
 
 
-- 👨‍💻 [https://firegram-b9fd2.web.app/](Website)
+- 👨‍💻 [Website](https://firegram-b9fd2.web.app/)
 
 - 📫 How to reach me **vadim.stasiev@hotmail.com**
 
