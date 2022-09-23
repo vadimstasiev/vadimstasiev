@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vadim.stasiev@hotmail.com**
 
-- ⚡ Fun fact **I manage a homelab that somehow continues to expand.**
+- ⚡ Fun fact **I manage a homelab that somehow continues to grow.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
